@@ -1,6 +1,6 @@
 {
-  "version": "v0.7.4",
-  "notes": "## 更新日志\n\n- 新增下载加速镜像，国内下载更快\n- 修复部分已知问题\n- 优化整体稳定性",
+  "version": "v0.7.5",
+  "notes": "## 更新日志v2\n\n- 新增下载加速镜像，国内下载更快\n- 修复部分已知问题\n- 优化整体稳定性",
   "force_update": true,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
