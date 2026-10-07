@@ -1,8 +1,10 @@
-[
-  "https://gh.chjina.com/",
-  "https://gh-proxy.com/",
-  "https://ghfast.top/",
-  "https://tvv.tw/",
-  "https://cdm.akaere.online/",
-  "https://github.ednovas.xyz/"
-]
+{
+  "download_nodes": [
+    "gh.chjina.com",
+    "gh-proxy.com",
+    "ghfast.top",
+    "tvv.tw",
+    "cdm.akaere.online",
+    "github.ednovas.xyz"
+  ]
+}
