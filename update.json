@@ -1,9 +1,22 @@
 {
   "version": "v0.7.4",
   "notes": "## 更新日志\n\n- 新增下载加速镜像，国内下载更快\n- 修复部分已知问题\n- 优化整体稳定性\n\n> 感谢大家的支持！",
+  "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
-  "apk_size": 35864576,
-  "apk_digest": "sha256:ef21553eb4e099843ddffd2cae3302d53c054913ab1343d2a3264c59788de0e3",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-10-07T12:00:00Z"
+  "published_at": "2026-10-07T12:00:00Z",
+  "abis": {
+    "v8a": {
+      "apk_size": 0,
+      "apk_digest": "sha256:这里填v8a包的SHA256"
+    },
+    "v7a": {
+      "apk_size": 0,
+      "apk_digest": "sha256:这里填v7a包的SHA256"
+    },
+    "universal": {
+      "apk_size": 0,
+      "apk_digest": "sha256:这里填universal包的SHA256"
+    }
+  }
 }
