@@ -1,7 +1,7 @@
 {
   "version": "v0.7.35",
   "notes": "## 更新内容\n-备份仅支持新版：移除旧版平铺图片兼容，减小备份包体积\n-更改数据内容加载时机\n-重构更新数据功能\n-分集按钮样式修改\n-自动清理已废弃数据，防止垃圾数据滚存\n-更改部分系统图标\n",
-  "force_update": false,
+  "force_update": true,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
   "published_at": "2026-10-12T21:54:45+08:00",
