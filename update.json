@@ -1,7 +1,7 @@
 {
   "version": "v0.7.50",
   "notes": "## 更新内容\n-修复了一些问题\n-重构某些功能\n",
-  "force_update": true,
+  "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
   "published_at": "2026-10-15T06:15:13+08:00",
