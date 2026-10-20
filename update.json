@@ -1,22 +1,22 @@
 {
-  "version": "v0.7.46",
-  "notes": "## 更新内容\n-修复了一些问题\n-优化使用体验\n",
+  "version": "v0.7.47",
+  "notes": "## 更新内容\n-添加番剧弹窗改为屏幕居中显示，搜索不再自动补全（手动触发搜索）\n-修复 Bangumi 登录加速（ECH）模式不支持 bgm.tv OAuth 授权页的问题\n-修复更新取消后部分番剧封面变白的问题：本地封面文件缺失时自动回退远程图加载\n-修复了一些问题\n-优化使用体验\n",
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-10-20T16:34:42+08:00",
+  "published_at": "2026-10-20T17:12:01+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 42500263,
-      "apk_digest": "sha256:28ed93673831546b5ed24e9c766fbbcbe10d33d8479a0148d784293a8ef38e3a"
+      "apk_size": 42500259,
+      "apk_digest": "sha256:eb872223f9efccc37c6d6936d215daa1a53d0515200dfe2648734d6dee339495"
     },
     "v7a": {
-      "apk_size": 37479949,
-      "apk_digest": "sha256:096e2269a66de1355dd3bb12b313f8b23ffba68dd59b6eba150111931f3ceb15"
+      "apk_size": 37479945,
+      "apk_digest": "sha256:5a4b17a23f2f7ba2a24075b99ddea1b79d1596b05769d4ed7fb5af84dc724f83"
     },
     "universal": {
-      "apk_size": 51488823,
-      "apk_digest": "sha256:6d28e112e04da9fbc94db6186d82cde3d219a073ba784494e42f42b813715a32"
+      "apk_size": 51488819,
+      "apk_digest": "sha256:346fb3cf23c73c2c79eb02103c0704f106a1eef306cabab40aaade1ab00f2e13"
     }
   }
 }
