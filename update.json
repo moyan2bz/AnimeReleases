@@ -4,19 +4,19 @@
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/AnimeTrack-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-10-21T05:48:18+08:00",
+  "published_at": "2026-10-21T06:55:50+08:00",
   "abis": {
     "v8a": {
       "apk_size": 42500259,
-      "apk_digest": "sha256:ba76acc43bc99d544a2503400a6736ba4e7b4ec8a55ffaa16eae3952b6ad3acd"
+      "apk_digest": "sha256:9f881ad70bf39edea5fd49152265092beebf6059c9dbdcf4c867245fa04ae01d"
     },
     "v7a": {
       "apk_size": 37479945,
-      "apk_digest": "sha256:e63b65d0ff3febfc1043f062d200431c49f9ca03d0f4bebe997f9e57e49baff6"
+      "apk_digest": "sha256:b6d9a9ccf1c6a24c9e00eacfd3e3a48a14bade183230fa3186cdc4c7f13d4c00"
     },
     "universal": {
       "apk_size": 51488819,
-      "apk_digest": "sha256:a214c7daacb783b8297b9fc2e15cee0c7259c572ff35ab88ffc6c6dfcec4a5fe"
+      "apk_digest": "sha256:332114e7c300adce2c8d2ea61fd5101c64c325d05f815c79982c7eb17025a6d8"
     }
   }
 }
