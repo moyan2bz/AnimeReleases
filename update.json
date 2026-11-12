@@ -1,23 +1,23 @@
 {
-  "version": "v0.8.1",
-  "notes": "## 更新内容\n\n### 跨设备同步\n- 修复首页排序跨设备不一致的问题\n- 修复更新时导致幽灵番剧卡片的问题\n\n",
+  "version": "v0.8.2",
+  "notes": "## 更新内容\n\n### 播放器\n- 加快检索速度\n- 减少播放器加载时间\n- 简化关键词二次检索，增加搜索成功概率\n-\n",
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-11-12T09:55:24+08:00",
+  "published_at": "2026-11-12T11:57:54+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 42266392,
-      "apk_digest": "sha256:d37b56ded140c9fdf7ab2ad095fa14b29239fa768d6324f0e8b25e1e25a8f87a"
+      "apk_size": 42291500,
+      "apk_digest": "sha256:8d23918d7871705849216beea2d38e3d415a471d18339c3b35d48e1fd9e73a83"
     },
     "v7a": {
-      "apk_size": 40139680,
-      "apk_digest": "sha256:41d6289dc8bc3453afde52d656654878cf481cb6b587653427bfd8c1d3b8e923"
+      "apk_size": 40164788,
+      "apk_digest": "sha256:d5a572869f70bc16bf7249c6ce6a044e108096e855d36d3a80d3be45a07a4e1c"
     },
     "universal": {
-      "apk_size": 61769197,
-      "apk_digest": "sha256:2cbfd6bf3bbbffb8ca3d03ac2849166b33582416a44a2874556cfb146007d011"
+      "apk_size": 61794305,
+      "apk_digest": "sha256:2cf2fa2e1987dd797665dacc0e05d472fcca07981755a562fef9605ac4e41e15"
     }
   },
-  "version_code": 477
+  "version_code": 478
 }
