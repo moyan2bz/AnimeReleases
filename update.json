@@ -1,7 +1,7 @@
 {
   "version": "v0.8.1",
   "notes": "## 更新内容\n\n### 跨设备同步\n- 修复首页排序跨设备不一致的问题\n- 修复更新时导致幽灵番剧卡片的问题\n\n",
-  "force_update": true,
+  "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
   "published_at": "2026-11-12T02:57:34+08:00",
