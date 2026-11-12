@@ -4,20 +4,20 @@
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-11-12T13:12:32+08:00",
+  "published_at": "2026-11-12T13:56:43+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 42313888,
-      "apk_digest": "sha256:1bf3e17f48789907b2991b7589502919eebd6ddeed163e152294b14bbcb2454b"
+      "apk_size": 42292572,
+      "apk_digest": "sha256:a262741d329202ea7834fce5580069da6b3e41fe74a864e90f2a340d65ad32e3"
     },
     "v7a": {
-      "apk_size": 40187176,
-      "apk_digest": "sha256:e7244063e312521ef4b83cc261f51bc0594fe18be21fed123e28d6c84e571bd7"
+      "apk_size": 40165860,
+      "apk_digest": "sha256:7c29716f73af7cd1eff74b86660c88395709f440fa24d3562d118c7e5ea5a1ee"
     },
     "universal": {
-      "apk_size": 61816689,
-      "apk_digest": "sha256:d748c08bd8ec86a11073654f60fe8be9de63b0c91edf1bbce0b283c9ece66eaa"
+      "apk_size": 61795373,
+      "apk_digest": "sha256:aac8421f9953c9f610b9cc6e661171a3e14d47385e867488d31e98aacbd25337"
     }
   },
-  "version_code": 481
+  "version_code": 483
 }
