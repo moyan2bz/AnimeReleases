@@ -1,23 +1,23 @@
 {
-  "version": "v0.8.2",
-  "notes": "## 更新内容\n\n### 播放器\n- 加快检索速度\n- 减少播放器加载时间\n- 简化关键词二次检索，增加搜索成功概率\n",
+  "version": "v0.8.4",
+  "notes": "## 更新内容\n\n### 修复\n\n- **弹幕列表排序**：播放器弹幕源 / 弹幕数量弹窗中的弹幕条目现在按出现时间升序排列，不再因弹幕源返回顺序不固定导致时间线混乱。\n- **横竖屏切换画面缩放**：修复播放器在横竖屏切换时画面被拉伸、需双击恢复播放才正常的问题。切换后会立即以新的 Surface 尺寸重绘当前帧，暂停状态下也能正确显示。\n\n### 跨设备同步\n\n- **同步期间保活**：跨设备同步（含设置同步）改为以前台服务运行，同步期间状态栏显示\"跨设备同步中\"通知。即使划掉应用，同步也会继续完成，不再因进程被杀导致正在上传的内容丢失。\n- **设置同步加密健壮性增强**：云端设置文件损坏时，自动回退到上一个可解密的旧版本，并清理排在前面的损坏文件，避免单点文件损坏导致所有设备无法同步；上传后自动回读校验，校验不通过则删除损坏文件并重试，杜绝坏文件留在云端。\n- **密码 / salt 保存时自动去除首尾空白**：避免粘贴时带入的空格或换行导致多设备间密钥不一致。\n",
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-11-13T16:02:20+08:00",
+  "published_at": "2026-11-14T17:19:47+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 38616663,
-      "apk_digest": "sha256:1ea76619f72a7d7f5173fe1111b9734c9b15265b2e3a2ab10abe6e086517b99a"
+      "apk_size": 38619407,
+      "apk_digest": "sha256:ac5f73042688dc658eab5a726c623574139aff0a2af9bcdab422f40e6531ec5f"
     },
     "v7a": {
-      "apk_size": 37170929,
-      "apk_digest": "sha256:7962db212e01cabb41d865e8965a66104f98773a7d93cead92ee7a9eed2f02c4"
+      "apk_size": 37173673,
+      "apk_digest": "sha256:fde880911a30b554ed453182c414b3f2ddcd408984053289b9dbdb4950e6bf46"
     },
     "universal": {
-      "apk_size": 55360712,
-      "apk_digest": "sha256:4fad981c4ddec7771a02ca14de2798c1d5bbf57596e5ff71bf636f14b197ccfd"
+      "apk_size": 55363456,
+      "apk_digest": "sha256:d3a4b0553691428b9a29ea1b3cdae59bdab216f2f4b196d713c2c3564aef4a71"
     }
   },
-  "version_code": 486
+  "version_code": 488
 }
