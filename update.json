@@ -1,23 +1,23 @@
 {
-  "version": "v0.8.5",
-  "notes": "## 更新内容\n\n### 修复\n\n- 修复播放时切换横竖屏卡顿的问题\n",
+  "version": "v0.8.5.1",
+  "notes": "## 更新内容\n\n### 修复\n\n- 修复播放时切换横竖屏卡顿的问题\n- 加快从历史记录返回观看时的起播速度\n- 加快了下一集的解析速度更快起播\n",
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-11-15T11:28:27+08:00",
+  "published_at": "2026-11-15T11:58:33+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 38619439,
-      "apk_digest": "sha256:d1f8628bcc915de92d2ed14ceab80377e1bb7991c44ae435b1e25f673ab44d3c"
+      "apk_size": 38624019,
+      "apk_digest": "sha256:8aabf037633e4b5c19e506e3af264a42380dff2cb3c239ae918e26d20c15cb32"
     },
     "v7a": {
-      "apk_size": 37173705,
-      "apk_digest": "sha256:56beecf8853ef9c058e91cb49cd0532014c10c11ceed9115a4a9f4fc6a591d54"
+      "apk_size": 37178285,
+      "apk_digest": "sha256:dc0fdddb52619125391acb3e74cf103b40e5e61321775b90cf4fde154f9cb7f7"
     },
     "universal": {
-      "apk_size": 55363488,
-      "apk_digest": "sha256:d905d2477af5ad9657272befc8f332856709fff364b910edd65a713455ae1f14"
+      "apk_size": 55368068,
+      "apk_digest": "sha256:4089fa656c5ff8d476d9153b9d7f45138dc7370a953411530a18dff6e2f3dbda"
     }
   },
-  "version_code": 489
+  "version_code": 490
 }
