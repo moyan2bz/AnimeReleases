@@ -1,23 +1,23 @@
 {
   "version": "v0.8.5.2",
-  "notes": "## 更新内容\n\n### 优化\n\n- 弹幕显示区域更容易找到合适的高度\n- 播放倍速改为 0.25 一档\n- 加快从历史记录返回观看时的起播速度\n- 加快了下一集的解析速度更快起播\n\n### 修复\n\n- 修复播放过程中偶发闪退的问题\n- 修复闪退后番剧「已看完集数」被清空、且云端 / Bangumi 拉取也无法恢复的问题\n- 修复从观看历史或选集进入时播放了别的集数的问题\n- 修复从历史记录继续观看时集数错乱的问题\n- 修复退出播放器后再次从历史记录进入播放时应用崩溃闪退的问题\n- 修复播放时切换横竖屏卡顿的问题\n- 修复长按加速时手指轻微移动会被误判成拖动进度条的问题\n",
+  "notes": "## 更新内容\n\n### 优化\n\n- 弹幕显示区域更容易找到合适的高度\n- 播放倍速改为 0.25 一档\n- 加快从历史记录返回观看时的起播速度\n- 加快了下一集的解析速度更快起播\n\n### 修复\n\n- 修复播放过程中偶发闪退的问题\n- 修复闪退后番剧「已看完集数」被清空、且云端 / Bangumi 拉取也无法恢复的问题\n- 修复从观看历史或选集进入时播放了别的集数的问题\n- 修复从历史记录继续观看时集数错乱的问题\n- 修复退出播放器后再次从历史记录进入播放时应用崩溃闪退的问题\n- 修复播放时切换横竖屏卡顿的问题\n- 修复长按加速时手指轻微移动会被误判成拖动进度条的问题\n- 修复长时间未观看后从历史记录起播偶发失败、被自动换源的问题\n",
   "force_update": false,
   "apk_url": "https://github.com/moyan2bz/AnimeReleases/releases/download/{version}/Kiroku-{version}-{abi}.apk",
   "release_url": "https://github.com/moyan2bz/AnimeReleases/releases",
-  "published_at": "2026-11-15T15:34:27+08:00",
+  "published_at": "2026-11-18T14:48:48+08:00",
   "abis": {
     "v8a": {
-      "apk_size": 38624839,
-      "apk_digest": "sha256:4dd0c12137bb15203597b56b4e140e3650a39635a751a74bae8ea20af71f2316"
+      "apk_size": 38624407,
+      "apk_digest": "sha256:f1e945d9ac37678cdba2e99dac2edf35d01f264b476497f0afd9b9be275e250a"
     },
     "v7a": {
-      "apk_size": 37179105,
-      "apk_digest": "sha256:a5e0f120843d8c596b1f6f69812b332b113d9a6b20a181cf4917b0d9ff6498d6"
+      "apk_size": 37178673,
+      "apk_digest": "sha256:039d25909519942bd4acca0e9553843f6dfc9a6f65f4eaf82e7c245a9cad7776"
     },
     "universal": {
-      "apk_size": 55368892,
-      "apk_digest": "sha256:e2fa5eaee6563c224508950e90e2fa99fcc1f727260405ad5515f506d616efaf"
+      "apk_size": 55368456,
+      "apk_digest": "sha256:2bbf735a026b7b520871d55f04edfaf47fad67fc9d019fa64a17a5d3599a46ca"
     }
   },
-  "version_code": 494
+  "version_code": 495
 }
